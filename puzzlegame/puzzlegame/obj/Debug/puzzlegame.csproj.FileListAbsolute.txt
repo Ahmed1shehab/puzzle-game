@@ -1,0 +1,10 @@
+C:\Users\ahmed\OneDrive\Desktop\puzzlegame\puzzlegame\bin\Debug\puzzlegame.exe
+C:\Users\ahmed\OneDrive\Desktop\puzzlegame\puzzlegame\bin\Debug\puzzlegame.pdb
+C:\Users\ahmed\OneDrive\Desktop\puzzlegame\puzzlegame\obj\Debug\puzzlegame.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\puzzlegame\puzzlegame\obj\Debug\puzzlegame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\OneDrive\Desktop\puzzlegame\puzzlegame\obj\Debug\puzzlegame.Form1.resources
+C:\Users\ahmed\OneDrive\Desktop\puzzlegame\puzzlegame\obj\Debug\puzzlegame.Properties.Resources.resources
+C:\Users\ahmed\OneDrive\Desktop\puzzlegame\puzzlegame\obj\Debug\puzzlegame.csproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\Desktop\puzzlegame\puzzlegame\obj\Debug\puzzlegame.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\puzzlegame\puzzlegame\obj\Debug\puzzlegame.exe
+C:\Users\ahmed\OneDrive\Desktop\puzzlegame\puzzlegame\obj\Debug\puzzlegame.pdb
